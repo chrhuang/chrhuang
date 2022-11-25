@@ -18,7 +18,7 @@
 - 💻 A passionate Full-stack developer
 - 🏍 Ride at spare time
 - 🖥 Personal website [link](https://youthful-pasteur-e9151d.netlify.app/)
-- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://youthful-pasteur-e9151d.netlify.app/)
+- 👨‍💻 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1NugPfDXe-KgI6aS9OMziEjKxq1kfxBmz/view)
 
 <br><br>
 
@@ -138,7 +138,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 <br>
 <br>
 <br>

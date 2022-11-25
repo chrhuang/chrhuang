@@ -48,6 +48,7 @@
 
    ![Ruby On Rails](https://img.shields.io/badge/RubyOnRails%20-%23E34F26.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
    ![PostgreSQL](https://img.shields.io/badge/postgreSQL%20-%231572B6.svg?style=for-the-badge&logo=postgreSQL&logoColor=white)
+   ![Redis](https://img.shields.io/badge/redis%20-%23E34F26.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 <br>
 
